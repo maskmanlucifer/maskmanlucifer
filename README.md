@@ -1,9 +1,7 @@
 ## Hi, im Aman Kumar Singh ⚡
 
 
-<p>
-  <img width="200" alt="hello!" align="right" src="https://giffiles.alphacoders.com/956/9562.gif">
-</p>
+ <img width="100" alt="hello!" align="right" src="https://giffiles.alphacoders.com/956/9562.gif">
 
 
 
