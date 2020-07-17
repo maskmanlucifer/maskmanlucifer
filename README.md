@@ -14,13 +14,13 @@
 ## About me
 
 <img align="right" height="165" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-Programing ❤️| Development 💙| Anime 💚 | Games ❤️
+I like Programing ❤️| Development 💙| Anime 💚 | Games ❤️
 
-I have learned CPP | DS and Algo. | Javascript | MERN
+I have learned CPP | DS and Algo. | Javascript | MERN Stack.
 
-I have a site [here](http://www.maskmanlucifer.live/)
+I have a site [here](http://www.maskmanlucifer.live/).
 
-Programmer who enjoys problem solving.
+I am a Programmer who enjoys problem-solving and tries to craft something innovative.
 <br><br><br>
 
 ## Contact Me at.
