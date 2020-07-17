@@ -13,7 +13,7 @@
 
 ## About me
 
-<img align="right" height="200" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" height="165" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 Programing ❤️| Development 💙| Anime 💚 | Games ❤️
 
 I have learned CPP | DS and Algo. | Javascript | MERN
