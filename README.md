@@ -13,7 +13,7 @@ CSE Sophomore at IET Lucknow.
 
 ## About me
 
-<img align="right" height="150" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" height="200" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 Programing ❤️| Development 💙| Anime 💚 | Games ❤️
 
