@@ -1,10 +1,10 @@
 ## Hi, im Aman Kumar Singh ⚡
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 Competitive Programmer | MERN Stack Developer
 
 CSE Sophomore at IET Lucknow.
-
-
 
 
 
