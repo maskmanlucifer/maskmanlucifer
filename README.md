@@ -5,8 +5,8 @@
 
 
 <br>
-Competitive Programmer | MERN Stack Developer
-CSE Sophomore at IET Lucknow.
+-Competitive Programmer | MERN Stack Developer;
+-CSE Sophomore at IET Lucknow.;
 - 🌱 I’m currently learning Advance Data Structures and Algorithms.; 
 - 🤔 I’m looking for help with Advance Data Structures and Algorithms and Open Source contibution. 😭;
 <br><br><br>
