@@ -14,7 +14,7 @@ CSE Sophomore at IET Lucknow.
   <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
 </p>
 
-Programing ❤️| Development 💙| Games 💚
+Programing ❤️| Development 💙| Anime 💚 | Games ❤️
 
 I have learned CPP | DS and Algo. | Javascript | MERN
 
