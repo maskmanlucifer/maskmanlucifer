@@ -15,6 +15,7 @@ CSE Sophomore at IET Lucknow.
 
 <img align="right" height="200" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
+<br><br><br>
 Programing ❤️| Development 💙| Anime 💚 | Games ❤️
 
 I have learned CPP | DS and Algo. | Javascript | MERN
@@ -22,7 +23,7 @@ I have learned CPP | DS and Algo. | Javascript | MERN
 I have a site [here](http://www.maskmanlucifer.live/)
 
 Programmer who enjoys problem solving.
-
+<br><br><br>
 
 ## Contact Me at.
 <a href="https://www.linkedin.com/in/markamansingh/">
