@@ -1,16 +1,17 @@
 ## Hi, im Aman Kumar Singh ⚡
+<p>
+  <img width="200" alt="hello!" align="right" src="https://giffiles.alphacoders.com/956/9562.gif">
+</p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 
 Competitive Programmer | MERN Stack Developer
 
 CSE Sophomore at IET Lucknow.
 
-<br><br><br><br><br><br><br><br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 ## About me
-<p>
-  <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
-</p>
+
 
 Programing ❤️| Development 💙| Anime 💚 | Games ❤️
 
