@@ -22,9 +22,7 @@ I have learned CPP | DS and Algo. | Javascript | MERN Stack.
 I have a site [here](http://www.maskmanlucifer.live/).
 
 I am a Programmer who enjoys problem-solving and tries to craft something innovative.
-<br>
-https://run.kaist.ac.kr/badges/codeforces/maskman_lucifer.svg
-
+<br><br><br>
 ## Contact Me at.
 <a href="https://www.linkedin.com/in/markamansingh/">
   <img align="left" alt="Aman's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
