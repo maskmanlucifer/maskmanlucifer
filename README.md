@@ -6,7 +6,7 @@
 
 <br>
 - :computer: Competitive Programmer | MERN Stack Developer.<br>
-- :rocket: CSE Sophomore at IET Lucknow.<br>
+- :rocket: CSE 3rd Year at IET Lucknow.<br>
 - 🌱 I’m currently learning Advance Data Structures and Algorithms.<br> 
 - 🤔 I’m looking for help with Advance Data Structures and Algorithms and Open Source contibution.<br>
 <br><br><br>
