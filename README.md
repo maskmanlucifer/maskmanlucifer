@@ -8,7 +8,7 @@
 #### - :computer: Competitive Programmer<br>
 #### - :rocket: CSE 3rd Year at IET Lucknow.<br>
 #### - 🌱 I’m currently learning Advance Data Structures and Algorithms.<br> 
-#### - 🤔 I’m looking for help with Advance Data Structures and Algorithms and Open Source contibution.<br>
+#### - 🤔 I’m learning Advance DS Algo and trying to contribute in Open Source Projects.<br>
 <br>
 <br>
 
