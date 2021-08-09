@@ -17,7 +17,7 @@
 
 I like Programing :yellow_heart: | Development :green_heart: | Open-Source :orange_heart:
 
-<h3>things i code with</h3>
+## Tech and Tools i code with
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
@@ -28,7 +28,7 @@ I like Programing :yellow_heart: | Development :green_heart: | Open-Source :oran
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>
 
 
-<h3>things i am learning </h3>
+## Tech and Tools i want to learn
 
 <br>
 
