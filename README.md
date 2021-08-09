@@ -6,9 +6,9 @@
 <br>
 
 #### - :computer: Competitive Programmer<br>
-### - :rocket: CSE 3rd Year at IET Lucknow.<br>
-### - 🌱 I’m currently learning Advance Data Structures and Algorithms.<br> 
-### - 🤔 I’m looking for help with Advance Data Structures and Algorithms and Open Source contibution.<br>
+#### - :rocket: CSE 3rd Year at IET Lucknow.<br>
+#### - 🌱 I’m currently learning Advance Data Structures and Algorithms.<br> 
+#### - 🤔 I’m looking for help with Advance Data Structures and Algorithms and Open Source contibution.<br>
 <br>
 <br>
 
@@ -16,7 +16,7 @@
 
 <img align="right" height="165" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-### I like Programing :yellow_heart: | Development :green_heart: | Open-Source :orange_heart:
+#### I like Programing :yellow_heart: | Development :green_heart: | Open-Source :orange_heart:
 
 ## Tech and Tools i code with 🛠️
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>&nbsp;
