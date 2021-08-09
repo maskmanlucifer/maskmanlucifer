@@ -1,10 +1,10 @@
 ## Hi, im Aman Kumar Singh ⚡
 
-
- <img width="155" alt="hello!" align="right" src="https://giffiles.alphacoders.com/956/9562.gif">
+<img width="155" alt="hello!" align="right" src="https://giffiles.alphacoders.com/956/9562.gif">
 
 
 <br>
+
 ### - :computer: Competitive Programmer<br>
 ### - :rocket: CSE 3rd Year at IET Lucknow.<br>
 ### - 🌱 I’m currently learning Advance Data Structures and Algorithms.<br> 
