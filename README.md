@@ -6,8 +6,9 @@
 <br>
 
 #### - :computer: Competitive Programmer<br>
-#### - :rocket: CSE 3rd Year at IET Lucknow.<br>
+#### - - 👯 I'm looking to collaborate on full stack web apps!
 #### - 🤔 I’m learning Advance DS, Algo and trying to contribute in Open Source Projects.<br>
+#### - 😄 Pronouns: he/him
 <br>
 <br>
 
