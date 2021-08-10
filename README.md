@@ -6,7 +6,7 @@
 <br>
 
 #### - :computer: Competitive Programmer<br>
-#### - - 👯 I'm looking to collaborate on full stack web apps!
+#### - 👯 I'm looking to collaborate on full stack web apps!
 #### - 🤔 I’m learning Advance DS, Algo and trying to contribute in Open Source Projects.<br>
 #### - 😄 Pronouns: he/him
 <br>
