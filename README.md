@@ -5,10 +5,10 @@
 
 <br>
 
-#### - :computer: Competitive Programmer<br>
-#### - 👯 I'm looking to collaborate on full stack web apps!
-#### - 🤔 I’m learning Advance DS, Algo and trying to contribute in Open Source Projects.<br>
-#### - 😄 Pronouns: he/him
+- :computer: Competitive Programmer<br>
+- 👯 I'm looking to collaborate on full stack web apps!
+- 🤔 I’m learning Advance DS, Algo and trying to contribute in Open Source Projects.<br>
+- 😄 Pronouns: he/him
 <br>
 <br>
 
@@ -16,7 +16,7 @@
 
 <img align="right" height="165" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-#### I like Programing :yellow_heart: | Development :green_heart: | Open-Source :orange_heart:
+I like Programing :yellow_heart: | Development :green_heart: | Open-Source :orange_heart:
 
 ## Tech and Tools i code with 🛠️
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>&nbsp;
