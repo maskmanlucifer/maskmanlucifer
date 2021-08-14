@@ -1,4 +1,4 @@
-## Hi, im Aman Kumar Singh ⚡
+## Hi, i am Aman Kumar Singh ⚡
 
 <img width="155" alt="hello!" align="right" src="https://giffiles.alphacoders.com/956/9562.gif">
 
