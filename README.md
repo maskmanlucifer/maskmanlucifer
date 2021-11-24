@@ -1,4 +1,4 @@
-### Hello, I am Aman 
+### Hello :wave: , I am Aman 
 
 ### About me 
     I am a Programmer who enjoys problem-solving and tries to craft something innovative
