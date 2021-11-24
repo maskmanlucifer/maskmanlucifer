@@ -1,9 +1,9 @@
-### Hello :wave: , I am Aman 
+### Hello :wave: , I am Aman Kumar Singh
 
-### About me 
+### About me :mag:
     I am a Programmer who enjoys problem-solving and tries to craft something innovative
     
-### Skills
+### Skills :shield:
     . Programming 
       Data Structures , Algorithms , Problem solving
       
@@ -16,5 +16,5 @@
     . Tools
       Git , Github , VS Code
     
-### Contact Me
+### Contact Me :speech_balloon:
    [Linkedin](https://www.linkedin.com/in/markamansingh/)
