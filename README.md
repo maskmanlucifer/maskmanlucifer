@@ -10,5 +10,5 @@
 ### Tools 
     Git      Github  VS Code
 
-### Contact Me)
+### Contact Me
    [Linkedin](https://www.linkedin.com/in/markamansingh/)
