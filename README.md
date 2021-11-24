@@ -1,7 +1,7 @@
 ### Hello :wave: , I am Aman Kumar Singh
 
 ### About me :mag:
-    I am a Programmer who enjoys problem-solving and tries to craft something innovative
+    I am a programmer who enjoys problem-solving and tries to craft something innovative
     
 ### Skills :shield:
     . Programming 
