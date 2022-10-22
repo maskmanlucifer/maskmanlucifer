@@ -8,10 +8,10 @@
       Data Structures , Algorithms , Problem solving
       
     . Launguage
-      C++ , C , Javascript , SQL 
+      C++ , C , Javascript 
       
     . Technologies
-      NodeJs , ReactJS , MongoDB , Postgresql , ejs , Rest Api
+      NodeJs , ReactJS , Redis , SpannerDB , EJS , Rest Api
       
     . Tools
       Git , Github , VS Code
