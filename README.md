@@ -11,7 +11,7 @@
       C++ , C , Javascript 
       
     . Technologies
-      NodeJs , ReactJS , Redis , SpannerDB , EJS , Rest Api
+      NodeJs , ReactJS, IndexedDB, Redux , Redis , SpannerDB , EJS , Rest Api
       
     . Tools
       Git , Github , VS Code
