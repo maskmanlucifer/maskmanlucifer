@@ -5,16 +5,16 @@
     
 ### Skills :shield:
     . Programming 
-      Data Structures , Algorithms , Problem solving
+      Data Structures, Algorithms, Problem solving
       
     . Launguage
-      C++ , C , Javascript 
+      C++, Javascript 
       
     . Technologies
-      NodeJs , ReactJS, IndexedDB, Redux , Redis , SpannerDB , EJS , Rest Api
+      NodeJs, ReactJs, Redux, SpannerDB, Redis, Rest Api
       
-    . Tools
-      Git , Github , VS Code
+    . Software & Tools
+      Git, Github, Grafana, Kibana, VS Code
     
 ### Contact Me :speech_balloon:
    [Linkedin](https://www.linkedin.com/in/markamansingh/)
