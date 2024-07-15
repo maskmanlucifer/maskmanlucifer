@@ -1,1 +1,1 @@
-aman kumar singh . [readcv](https://read.cv/maskman_lucifer) .  [linkedin](https://www.linkedin.com/in/markamansingh/)
+[aman kumar singh] (https://0q5e9qw4p.sites.cv/)
