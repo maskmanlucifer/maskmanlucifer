@@ -1,2 +1,2 @@
-[<img src="https://ik.imagekit.io/8tmvchj44/ABE78C51-9BBB-49B3-AA32-0CECD6E05967_1_105_c.jpeg?updatedAt=1730652594558">](https://maskmanlucifer.github.io/lucifer/)
+[<img src="https://ik.imagekit.io/8tmvchj44/tumblr_o7jv4nj13S1tago7oo9_1280.png?updatedAt=1734975617526">](https://maskmanlucifer.github.io/lucifer/)
 
